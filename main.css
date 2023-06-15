@@ -4697,10 +4697,3 @@ input, select, textarea {
 		height: auto !important;
 
   }
-
-@media screen and (max-width 736px) {
-	.container {
-		width: 100% !important;
-		height: auto !important;	
-	}
-}
